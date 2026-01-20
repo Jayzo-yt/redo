@@ -264,7 +264,7 @@ print(f"Trainable Parameters: {trainable_params:,}")
 
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
-scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='max', patience=3, factor=0.5, verbose=True)
+scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='max', patience=3, factor=0.5)
 scaler = torch.cuda.amp.GradScaler(enabled=USE_AMP)
 
 # ---------------- Metrics ----------------
@@ -455,6 +455,11 @@ for epoch in range(1, NUM_EPOCHS + 1):
     print(f"  LR: {optimizer.param_groups[0]['lr']:.6f}")
 
     scheduler.step(val_metrics["f1"])
+    
+    # Print LR changes manually since verbose is deprecated
+    current_lr = optimizer.param_groups[0]['lr']
+    if epoch > 1 and current_lr != history["learning_rates"][-1]:
+        print(f"  🔽 Learning rate reduced to {current_lr:.6f}")
 
     if val_metrics["f1"] > best_f1:
         best_f1 = val_metrics["f1"]
