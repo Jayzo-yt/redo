@@ -1,0 +1,12 @@
+                 precision    recall  f1-score   support
+
+           real     0.9898    0.7790    0.8719      1000
+       deepfake     0.8223    0.9900    0.8984      1000
+       stylegan     0.9199    0.9880    0.9527      1000
+      stylegan2     0.9673    0.8862    0.9250       800
+          pggan     0.9899    0.9838    0.9868       800
+stablediffusion     0.9930    1.0000    0.9965      1000
+
+       accuracy                         0.9380      5600
+      macro avg     0.9470    0.9378    0.9385      5600
+   weighted avg     0.9448    0.9380    0.9373      5600

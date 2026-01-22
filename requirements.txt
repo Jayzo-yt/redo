@@ -1,0 +1,27 @@
+# ResNet50 Testing Script Requirements
+# Install with: pip install -r requirements.txt
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress Bars
+tqdm>=4.62.0
+
+# Optional but recommended
+# CUDA support (if you have NVIDIA GPU)
+# torch with CUDA: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118

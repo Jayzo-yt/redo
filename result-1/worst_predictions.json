@@ -1,0 +1,402 @@
+[
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1224.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9999817609786987,
+    "true_prob": 1.8207058019470423e-05,
+    "pred_prob": 0.9999817609786987
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1490.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9999779462814331,
+    "true_prob": 2.1118201402714476e-05,
+    "pred_prob": 0.9999779462814331
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1490.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.999976634979248,
+    "true_prob": 2.2788788555772044e-05,
+    "pred_prob": 0.999976634979248
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1224.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9998537302017212,
+    "true_prob": 0.00014600767462980002,
+    "pred_prob": 0.9998537302017212
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1455.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.999840497970581,
+    "true_prob": 9.227490227203816e-05,
+    "pred_prob": 0.999840497970581
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1223.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9997180104255676,
+    "true_prob": 0.0002681330079212785,
+    "pred_prob": 0.9997180104255676
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1468.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9997026324272156,
+    "true_prob": 0.00028398053837008774,
+    "pred_prob": 0.9997026324272156
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1524.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9997004270553589,
+    "true_prob": 0.00029778186581097543,
+    "pred_prob": 0.9997004270553589
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1273.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.999691367149353,
+    "true_prob": 0.0003069935482926667,
+    "pred_prob": 0.999691367149353
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\high\\099834.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9996838569641113,
+    "true_prob": 0.0003068042278755456,
+    "pred_prob": 0.9996838569641113
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1565.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9996046423912048,
+    "true_prob": 0.0003874313260894269,
+    "pred_prob": 0.9996046423912048
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1391.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9995086193084717,
+    "true_prob": 0.0004839430330321193,
+    "pred_prob": 0.9995086193084717
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1684.jpg",
+    "true_label": "real",
+    "pred_label": "stablediffusion",
+    "confidence": 0.999477207660675,
+    "true_prob": 0.00024290340661536902,
+    "pred_prob": 0.999477207660675
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099993.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9994383454322815,
+    "true_prob": 0.0005522370338439941,
+    "pred_prob": 0.9994383454322815
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1415.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9994146823883057,
+    "true_prob": 0.0005835655028931797,
+    "pred_prob": 0.9994146823883057
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1654.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9994106292724609,
+    "true_prob": 0.000532092759385705,
+    "pred_prob": 0.9994106292724609
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1453.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9993454813957214,
+    "true_prob": 9.083268378162757e-05,
+    "pred_prob": 0.9993454813957214
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1641.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9993228912353516,
+    "true_prob": 0.00011265816283412278,
+    "pred_prob": 0.9993228912353516
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099862.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9990610480308533,
+    "true_prob": 0.000905635068193078,
+    "pred_prob": 0.9990610480308533
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1655.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9988905787467957,
+    "true_prob": 0.0011087357997894287,
+    "pred_prob": 0.9988905787467957
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1369.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9988023042678833,
+    "true_prob": 0.0010963651584461331,
+    "pred_prob": 0.9988023042678833
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099873.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9987941980361938,
+    "true_prob": 0.0010060168569907546,
+    "pred_prob": 0.9987941980361938
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1565.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9987672567367554,
+    "true_prob": 0.0012161906342953444,
+    "pred_prob": 0.9987672567367554
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1443.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9986581802368164,
+    "true_prob": 0.0013269082410261035,
+    "pred_prob": 0.9986581802368164
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1551.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.998612642288208,
+    "true_prob": 0.0010733940871432424,
+    "pred_prob": 0.998612642288208
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1495.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9985223412513733,
+    "true_prob": 0.0012626651441678405,
+    "pred_prob": 0.9985223412513733
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1524.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9982749223709106,
+    "true_prob": 0.0017217712011188269,
+    "pred_prob": 0.9982749223709106
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1294.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9981774091720581,
+    "true_prob": 0.001674323226325214,
+    "pred_prob": 0.9981774091720581
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1515.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9980338215827942,
+    "true_prob": 0.0019591697491705418,
+    "pred_prob": 0.9980338215827942
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1670.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9979004859924316,
+    "true_prob": 0.0020120928529649973,
+    "pred_prob": 0.9979004859924316
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1415.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9977466464042664,
+    "true_prob": 0.002249562181532383,
+    "pred_prob": 0.9977466464042664
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1525.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9977237582206726,
+    "true_prob": 0.0012912321835756302,
+    "pred_prob": 0.9977237582206726
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099817.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9974036812782288,
+    "true_prob": 0.0025909084361046553,
+    "pred_prob": 0.9974036812782288
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1455.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9973136782646179,
+    "true_prob": 0.0025716200470924377,
+    "pred_prob": 0.9973136782646179
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1584.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9971389770507812,
+    "true_prob": 0.0027590489480644464,
+    "pred_prob": 0.9971389770507812
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099977.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9970859885215759,
+    "true_prob": 0.0026384228840470314,
+    "pred_prob": 0.9970859885215759
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1302.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.99704509973526,
+    "true_prob": 0.002130434848368168,
+    "pred_prob": 0.99704509973526
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\low\\socialq_099921.png",
+    "true_label": "stylegan2",
+    "pred_label": "real",
+    "confidence": 0.9970405697822571,
+    "true_prob": 0.00040765132871456444,
+    "pred_prob": 0.9970405697822571
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1317.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.996843695640564,
+    "true_prob": 0.0029204196762293577,
+    "pred_prob": 0.996843695640564
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1371.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9967448711395264,
+    "true_prob": 0.003247311571612954,
+    "pred_prob": 0.9967448711395264
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1525.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9967247843742371,
+    "true_prob": 0.0028086684178560972,
+    "pred_prob": 0.9967247843742371
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1206.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.996539831161499,
+    "true_prob": 0.0007965443655848503,
+    "pred_prob": 0.996539831161499
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1584.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9961674809455872,
+    "true_prob": 0.003552315291017294,
+    "pred_prob": 0.9961674809455872
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1333.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9958232641220093,
+    "true_prob": 0.003771516028791666,
+    "pred_prob": 0.9958232641220093
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1580.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9957717061042786,
+    "true_prob": 0.004160438198596239,
+    "pred_prob": 0.9957717061042786
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1536.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9957137107849121,
+    "true_prob": 0.004138435702770948,
+    "pred_prob": 0.9957137107849121
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1332.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9955691695213318,
+    "true_prob": 0.004413448739796877,
+    "pred_prob": 0.9955691695213318
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\high\\real_1510.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9954921007156372,
+    "true_prob": 0.004507141653448343,
+    "pred_prob": 0.9954921007156372
+  },
+  {
+    "path": "D:\\model\\model\\test\\new real\\low\\socialq_real_1452.jpg",
+    "true_label": "real",
+    "pred_label": "deepfake",
+    "confidence": 0.9952623844146729,
+    "true_prob": 0.004723047837615013,
+    "pred_prob": 0.9952623844146729
+  },
+  {
+    "path": "D:\\model\\model\\test\\stylegan2\\high\\099873.png",
+    "true_label": "stylegan2",
+    "pred_label": "stylegan",
+    "confidence": 0.9944224953651428,
+    "true_prob": 0.005473500583320856,
+    "pred_prob": 0.9944224953651428
+  }
+]
