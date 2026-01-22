@@ -28,9 +28,9 @@ import random
 
 # ---------------- USER CONFIG ----------------
 # UPDATE THESE PATHS FOR YOUR LOCAL MACHINE
-MODEL_PATH = Path(r"C:\projects\redo\resnet50_6class.pth")  # Path to your trained model
+MODEL_PATH = Path(r"D:\resnet-post (1)\resnet50_6class_high_quality.pth")  # Path to your trained model
 TEST_DATA_ROOT = Path("./data/test")  # Root directory containing test folders
-OUT_DIR = Path(r"C:\projects\redo\result-1")  # Where to save results
+OUT_DIR = Path(r"D:\projects\redo\result-hig")  # Where to save results
 
 NUM_CLASSES = 6
 BATCH_SIZE = 32
